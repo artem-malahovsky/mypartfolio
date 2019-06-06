@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+52c7468468693cb8657076a894fe30337e911932 refs/remotes/origin/add/folder
+cbbb54dcf52bda87758ce5ddc39089d50c4f7993 refs/remotes/origin/edits/index
+2c891f84d5eaa6c69c91f050e1ebec41e8aa9879 refs/remotes/origin/gitignore
+cd385860fe9d0ae3472cc76aa9250aca5382d06b refs/remotes/origin/master
+39be79aeae66a7079aa89cb50a57db348e899c36 refs/remotes/origin/remove/plugins
